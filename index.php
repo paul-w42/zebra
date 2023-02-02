@@ -8,5 +8,6 @@
     <li>have a tail</li>
 </ul>
 <p>Some zoos have zebras.</p>
+<p>Not all zebras are in zoos.</p>
 <?php
 ?>
