@@ -11,6 +11,8 @@
 <p>not all zebras are in zoos!</p>
 <p>This is Kat's paragraph about zebras. She thinks they are striped horses.</p>
 
+<p>Kat's second paragraph.</p>
+
 
 
 <?php
