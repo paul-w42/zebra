@@ -7,5 +7,6 @@
     <li>have hooves</li>
     <li>have a tail</li>
 </ul>
+<p>Some zoos have zebras.</p>
 <?php
 ?>
