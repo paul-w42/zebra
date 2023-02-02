@@ -8,5 +8,6 @@
     <li>have a tail</li>
 </ul>
 <p>Some zoos have zebras.</p>
+<p>This is Kat's paragraph about zebras. She thinks they are striped horses.</p>
 <?php
 ?>
